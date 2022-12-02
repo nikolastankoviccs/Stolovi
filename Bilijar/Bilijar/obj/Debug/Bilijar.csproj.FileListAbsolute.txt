@@ -1,0 +1,7 @@
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\bin\Debug\Bilijar.exe.config
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\bin\Debug\Bilijar.exe
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\bin\Debug\Bilijar.pdb
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\obj\Debug\Bilijar.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\obj\Debug\Bilijar.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\obj\Debug\Bilijar.exe
+C:\Users\Nikola\Desktop\Projekti\Bilijar\Bilijar\obj\Debug\Bilijar.pdb
